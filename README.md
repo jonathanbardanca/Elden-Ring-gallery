@@ -1,5 +1,6 @@
 # Elden-Ring-gallery
-Site que fiz para treinar uso de slides
+Site que fiz para treinar uso de slides. 
+link: https://jonathanbardanca.github.io/Elden-Ring-gallery/ 
 
 ## ⚠️ Aviso de Direitos Autorais
 
