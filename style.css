@@ -75,3 +75,9 @@ img {
   line-height: 1;
   user-select: none;
 }
+
+@media (max-width: 768px) {
+  .minha-coluna {
+    width: 50%; /* Ocupa metade da largura em telas maiores */
+  }
+}
